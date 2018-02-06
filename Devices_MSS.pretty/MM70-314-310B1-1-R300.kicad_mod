@@ -1,4 +1,4 @@
-(module MXM3_sin_centro (layer F.Cu) (tedit 5A78E3E9)
+(module MM70-314-310B1-1-R300 (layer F.Cu) (tedit 5A78E932)
   (descr "conector para apalis TK1")
   (tags example)
   (fp_text reference U1 (at 40.125 -4.1) (layer F.SilkS)
@@ -343,4 +343,9 @@
   (pad "" smd rect (at 52.35 50.8) (size 4.8 3) (layers F.Cu F.Mask))
   (pad "" np_thru_hole circle (at 52.35 47.4) (size 2 2) (drill 1.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 28.15 47.4) (size 1.5 1.5) (drill 1.1) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/3D_MSS/MM70-314-310B1-2-R300.STEP
+    (offset (xyz 40.25 -5.34 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
