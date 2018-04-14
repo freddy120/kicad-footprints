@@ -34,7 +34,7 @@
   (pad "" smd rect (at 10.5 -2.5) (size 0.8 1.8) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 10.5 0) (size 0.8 1.8) (layers F.Cu F.Paste F.Mask))
   (model "/Users/aramos/Google Drive/Apalis/abajo/3d_conten/FH12-V.wrl"
-    (at (xyz -0.438 0.4 0.02))
+    (offset (xyz -11.12519983291626 10.15999984741211 0.5079999923706054))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 90))
   )

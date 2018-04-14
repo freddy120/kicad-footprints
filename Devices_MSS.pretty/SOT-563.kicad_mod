@@ -1,4 +1,4 @@
-(module SOT563 (layer F.Cu)
+(module SOT-563 (layer F.Cu) (tedit 0)
   (descr SOT563)
   (solder_mask_margin 0.0762)
   (solder_paste_margin -0.0254)

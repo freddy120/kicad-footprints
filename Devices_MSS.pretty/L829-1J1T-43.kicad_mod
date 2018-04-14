@@ -42,7 +42,7 @@
   (pad 11 thru_hole circle (at -4.289 -9.419 180) (size 1.27 1.27) (drill 0.889) (layers *.Cu *.Mask F.SilkS))
   (pad 13 thru_hole circle (at -6.321 -9.419 180) (size 1.27 1.27) (drill 0.889) (layers *.Cu *.Mask F.SilkS))
   (model ../../../../../home/mss/Desktop/hartware_TK1/3d_conten/L829-1J1T-43.wrl
-    (at (xyz 2.55 -0.42 0))
+    (offset (xyz 64.7699990272522 -10.66799983978271 0))
     (scale (xyz 400 400 400))
     (rotate (xyz 0 0 -90))
   )

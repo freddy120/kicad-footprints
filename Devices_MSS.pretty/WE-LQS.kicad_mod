@@ -15,7 +15,7 @@
   (pad 1 smd rect (at 0 0) (size 1.5 3.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.05 0) (size 1.5 3.6) (layers F.Cu F.Paste F.Mask))
   (model "/Users/aramos/Google Drive/Apalis/abajo/3d_conten/bobina_pwm.wrl"
-    (at (xyz 0.06 0 0.03))
+    (offset (xyz 1.523999977111816 0 0.7619999885559082))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
   )

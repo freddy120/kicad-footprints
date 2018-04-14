@@ -33,7 +33,7 @@
   (pad "" smd rect (at 5 -3 180) (size 2.3 2.3) (layers F.Paste))
   (pad "" smd rect (at 5 3 180) (size 2.3 2.3) (layers F.Paste))
   (model smd_trans/d-pak-5.wrl
-    (at (xyz -0.03 0 0))
+    (offset (xyz -0.7619999885559082 0 0))
     (scale (xyz 1.33 1.5 1.2))
     (rotate (xyz 0 0 90))
   )

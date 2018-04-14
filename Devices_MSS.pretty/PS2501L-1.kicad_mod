@@ -19,7 +19,7 @@
   (pad 3 smd rect (at 4.35 1.27) (size 0.9 1.25) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 4.35 -1.27) (size 0.9 1.25) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Housings_SOIC.3dshapes/SO-4_4.4x3.6mm_Pitch2.54mm.wrl
-    (at (xyz 0 0.0005905512 0))
+    (offset (xyz 0 0.01500000025472259 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

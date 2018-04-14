@@ -38,7 +38,7 @@
   (pad 17 thru_hole circle (at -1.53909 -4.228616) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 26 thru_hole circle (at 0 1.5) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (model "/Users/aramos/Google Drive/Apalis/abajo/3d_conten/KPT7A16.wrl"
-    (at (xyz -0.5 0.5 0))
+    (offset (xyz -12.69999980926514 12.69999980926514 0))
     (scale (xyz 0.25 0.25 0.25))
     (rotate (xyz -90 0 0))
   )
