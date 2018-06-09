@@ -1,0 +1,79 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+QFN-7
+$EndINDEX
+$MODULE QFN-7
+Po 0 0 0 15 00000000 00000000 ~~
+Li QFN-7
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0 0 1 0.9 0 0.05 N H 21 "QFN-7"
+T1 0.924824 -1.10979 0.332897 0.332897 0 0.05 N V 21 "VAL**"
+DP 0 0 0 0 4 0.381 21
+Dl 2.06523 -0.508
+Dl 2.54 -0.508
+Dl 2.54 0
+Dl 2.06523 0
+$PAD
+Sh "5" R 0.3302 1.524 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.149859 1.397
+$EndPAD
+$PAD
+Sh "3" R 0.3302 0.762 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.500381 -0.1016
+$EndPAD
+$PAD
+Sh "2" R 0.3302 0.762 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.00076 -0.1016
+$EndPAD
+$PAD
+Sh "1" R 0.3302 0.762 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.50114 -0.1016
+$EndPAD
+$PAD
+Sh "4" R 0.3302 0.762 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -0.1016
+$EndPAD
+$PAD
+Sh "6" R 0.3302 1.524 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.7493 1.397
+$EndPAD
+$PAD
+Sh "7" R 0.3302 1.524 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.34874 1.397
+$EndPAD
+$EndMODULE QFN-7
